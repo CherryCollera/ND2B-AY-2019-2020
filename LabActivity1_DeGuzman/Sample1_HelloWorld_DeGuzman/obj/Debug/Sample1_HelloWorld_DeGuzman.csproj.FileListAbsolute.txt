@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\bin\Debug\Sample1_HelloWorld_DeGuzman.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\bin\Debug\Sample1_HelloWorld_DeGuzman.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\bin\Debug\Sample1_HelloWorld_DeGuzman.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\obj\Debug\Sample1_HelloWorld_DeGuzman.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\obj\Debug\Sample1_HelloWorld_DeGuzman.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_DeGuzman\Sample1_HelloWorld_DeGuzman\obj\Debug\Sample1_HelloWorld_DeGuzman.pdb
