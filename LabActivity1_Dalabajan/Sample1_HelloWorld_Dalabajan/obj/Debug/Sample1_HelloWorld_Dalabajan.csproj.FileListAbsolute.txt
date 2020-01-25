@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\obj\Debug\Sample1_HelloWorld_Dalabajan.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\bin\Debug\Sample1_HelloWorld_Dalabajan.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\bin\Debug\Sample1_HelloWorld_Dalabajan.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\bin\Debug\Sample1_HelloWorld_Dalabajan.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\obj\Debug\Sample1_HelloWorld_Dalabajan.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Dalabajan\Sample1_HelloWorld_Dalabajan\obj\Debug\Sample1_HelloWorld_Dalabajan.pdb
