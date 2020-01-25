@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\bin\Debug\Sample1_HelloWorld(DE JESUS).exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\bin\Debug\Sample1_HelloWorld(DE JESUS).exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\bin\Debug\Sample1_HelloWorld(DE JESUS).pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\obj\Debug\Sample1_HelloWorld(DE JESUS).csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\obj\Debug\Sample1_HelloWorld(DE JESUS).exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld(DE JESUS)\Sample1_HelloWorld(DE JESUS)\obj\Debug\Sample1_HelloWorld(DE JESUS).pdb
