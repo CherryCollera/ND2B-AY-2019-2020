@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\bin\Debug\Sample1_HelloWorld.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld\Sample1_HelloWorld\obj\Debug\Sample1_HelloWorld.pdb
