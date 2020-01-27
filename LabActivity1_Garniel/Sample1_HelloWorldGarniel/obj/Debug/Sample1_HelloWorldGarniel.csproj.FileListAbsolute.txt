@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\bin\Debug\Sample1_HelloWorldGarniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\bin\Debug\Sample1_HelloWorldGarniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\bin\Debug\Sample1_HelloWorldGarniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\obj\Debug\Sample1_HelloWorldGarniel.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\obj\Debug\Sample1_HelloWorldGarniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGarniel\Sample1_HelloWorldGarniel\obj\Debug\Sample1_HelloWorldGarniel.pdb
