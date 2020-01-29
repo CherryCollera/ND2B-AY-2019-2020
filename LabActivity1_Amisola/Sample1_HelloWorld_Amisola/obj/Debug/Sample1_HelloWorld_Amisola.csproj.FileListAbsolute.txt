@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\bin\Debug\Sample1_HelloWorld_Amisola.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\bin\Debug\Sample1_HelloWorld_Amisola.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\bin\Debug\Sample1_HelloWorld_Amisola.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\obj\Debug\Sample1_HelloWorld_Amisola.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\obj\Debug\Sample1_HelloWorld_Amisola.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Amisola\Sample1_HelloWorld_Amisola\obj\Debug\Sample1_HelloWorld_Amisola.pdb
