@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb

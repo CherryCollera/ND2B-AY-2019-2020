@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\bin\Debug\Sample1_HelloWorldGuce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\bin\Debug\Sample1_HelloWorldGuce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\bin\Debug\Sample1_HelloWorldGuce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\obj\Debug\Sample1_HelloWorldGuce.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\obj\Debug\Sample1_HelloWorldGuce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample1_HelloWorldGuce\obj\Debug\Sample1_HelloWorldGuce.pdb

@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorldGuce\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
