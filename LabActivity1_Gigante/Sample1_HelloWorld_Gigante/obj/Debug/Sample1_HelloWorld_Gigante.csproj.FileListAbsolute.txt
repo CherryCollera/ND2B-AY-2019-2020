@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\bin\Debug\Sample1_HelloWorld_Gigante.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\bin\Debug\Sample1_HelloWorld_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\bin\Debug\Sample1_HelloWorld_Gigante.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\obj\Debug\Sample1_HelloWorld_Gigante.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\obj\Debug\Sample1_HelloWorld_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Gigante\Sample1_HelloWorld_Gigante\obj\Debug\Sample1_HelloWorld_Gigante.pdb
