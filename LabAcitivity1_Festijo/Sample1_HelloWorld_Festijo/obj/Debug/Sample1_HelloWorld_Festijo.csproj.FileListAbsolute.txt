@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\bin\Debug\Sample1_HelloWorld_Festijo.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\bin\Debug\Sample1_HelloWorld_Festijo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\bin\Debug\Sample1_HelloWorld_Festijo.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\obj\Debug\Sample1_HelloWorld_Festijo.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\obj\Debug\Sample1_HelloWorld_Festijo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Sample1_HelloWorld_Festijo\Sample1_HelloWorld_Festijo\obj\Debug\Sample1_HelloWorld_Festijo.pdb
