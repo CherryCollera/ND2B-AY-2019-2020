@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\ComputeAverage_Garniel\bin\Debug\ComputeAverage_Garniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\ComputeAverage_Garniel\bin\Debug\ComputeAverage_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\ComputeAverage_Garniel\bin\Debug\ComputeAverage_Garniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\ComputeAverage_Garniel\obj\Debug\ComputeAverage_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\ComputeAverage_Garniel\obj\Debug\ComputeAverage_Garniel.pdb

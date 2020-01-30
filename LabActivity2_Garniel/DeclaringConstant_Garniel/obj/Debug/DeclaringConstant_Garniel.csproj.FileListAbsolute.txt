@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\DeclaringConstant_Garniel\bin\Debug\DeclaringConstant_Garniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\DeclaringConstant_Garniel\bin\Debug\DeclaringConstant_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\DeclaringConstant_Garniel\bin\Debug\DeclaringConstant_Garniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\DeclaringConstant_Garniel\obj\Debug\DeclaringConstant_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\DeclaringConstant_Garniel\obj\Debug\DeclaringConstant_Garniel.pdb

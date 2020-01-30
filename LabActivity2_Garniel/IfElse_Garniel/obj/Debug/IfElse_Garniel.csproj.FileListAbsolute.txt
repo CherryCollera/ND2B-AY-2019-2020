@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\IfElse_Garniel\bin\Debug\IfElse_Garniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\IfElse_Garniel\bin\Debug\IfElse_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\IfElse_Garniel\bin\Debug\IfElse_Garniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\IfElse_Garniel\obj\Debug\IfElse_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Garniel\IfElse_Garniel\obj\Debug\IfElse_Garniel.pdb
