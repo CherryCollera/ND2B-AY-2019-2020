@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\BasicOperations\bin\Debug\BasicOperations.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\BasicOperations\bin\Debug\BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\BasicOperations\bin\Debug\BasicOperations.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\BasicOperations\obj\Debug\BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\BasicOperations\obj\Debug\BasicOperations.pdb

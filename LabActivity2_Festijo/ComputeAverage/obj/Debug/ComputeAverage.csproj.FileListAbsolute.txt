@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\ComputeAverage\bin\Debug\ComputeAverage.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\ComputeAverage\bin\Debug\ComputeAverage.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\ComputeAverage\obj\Debug\ComputeAverage.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\ComputeAverage\obj\Debug\ComputeAverage.pdb

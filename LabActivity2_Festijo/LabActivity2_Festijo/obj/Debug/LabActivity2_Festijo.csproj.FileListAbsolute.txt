@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\bin\Debug\LabActivity2_Festijo.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\bin\Debug\LabActivity2_Festijo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\bin\Debug\LabActivity2_Festijo.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\obj\Debug\LabActivity2_Festijo.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\obj\Debug\LabActivity2_Festijo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Festijo\LabActivity2_Festijo\obj\Debug\LabActivity2_Festijo.pdb
