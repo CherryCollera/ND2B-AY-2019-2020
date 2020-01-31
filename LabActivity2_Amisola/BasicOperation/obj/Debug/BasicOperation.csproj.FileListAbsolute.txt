@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\BasicOperation\bin\Debug\BasicOperation.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\BasicOperation\bin\Debug\BasicOperation.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\BasicOperation\obj\Debug\BasicOperation.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\BasicOperation\obj\Debug\BasicOperation.pdb

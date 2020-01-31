@@ -1,0 +1,5 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\LabActivity2_Amisola\bin\Debug\LabActivity2_Amisola.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\LabActivity2_Amisola\bin\Debug\LabActivity2_Amisola.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\LabActivity2_Amisola\obj\Debug\LabActivity2_Amisola.csprojResolveAssemblyReference.cache
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\LabActivity2_Amisola\obj\Debug\LabActivity2_Amisola.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\LabActivity2_Amisola\obj\Debug\LabActivity2_Amisola.pdb

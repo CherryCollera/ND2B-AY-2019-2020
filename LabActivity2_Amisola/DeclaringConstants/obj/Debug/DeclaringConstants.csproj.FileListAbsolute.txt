@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

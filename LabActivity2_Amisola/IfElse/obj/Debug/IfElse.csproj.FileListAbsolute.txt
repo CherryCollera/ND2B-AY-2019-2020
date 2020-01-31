@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\IfElse\bin\Debug\IfElse.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\IfElse\bin\Debug\IfElse.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\IfElse\obj\Debug\IfElse.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\IfElse\obj\Debug\IfElse.pdb

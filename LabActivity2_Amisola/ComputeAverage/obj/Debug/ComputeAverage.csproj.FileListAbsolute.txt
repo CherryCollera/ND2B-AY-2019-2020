@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\ComputeAverage\bin\Debug\ComputeAverage.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\ComputeAverage\bin\Debug\ComputeAverage.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\ComputeAverage\obj\Debug\ComputeAverage.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Amisola\ComputeAverage\obj\Debug\ComputeAverage.pdb
