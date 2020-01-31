@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\bin\Debug\LabActivity2_Perona.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\bin\Debug\LabActivity2_Perona.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\bin\Debug\LabActivity2_Perona.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\obj\Debug\ComputeSum.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\obj\Debug\LabActivity2_Perona.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Perona\LabActivity2_Perona\obj\Debug\LabActivity2_Perona.pdb
