@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\bin\Debug\LabActivity2_Gigante.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\bin\Debug\LabActivity2_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\bin\Debug\LabActivity2_Gigante.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\obj\Debug\LabActivity2_Gigante.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\obj\Debug\LabActivity2_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\LabActivity2_Gigante\obj\Debug\LabActivity2_Gigante.pdb

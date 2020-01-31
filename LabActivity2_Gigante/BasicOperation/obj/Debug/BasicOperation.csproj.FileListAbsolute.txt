@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\BasicOperation\bin\Debug\BasicOperation.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\BasicOperation\bin\Debug\BasicOperation.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\BasicOperation\bin\Debug\BasicOperation.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\BasicOperation\obj\Debug\BasicOperation.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Gigante\BasicOperation\obj\Debug\BasicOperation.pdb
