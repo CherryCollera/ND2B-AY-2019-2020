@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\ComputeAverage_Guce\bin\Debug\ComputeAverage_Guce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\ComputeAverage_Guce\bin\Debug\ComputeAverage_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\ComputeAverage_Guce\bin\Debug\ComputeAverage_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\ComputeAverage_Guce\obj\Debug\ComputeAverage_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\ComputeAverage_Guce\obj\Debug\ComputeAverage_Guce.pdb

@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\bin\Debug\DeclaringConstant_Guce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\bin\Debug\DeclaringConstant_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\bin\Debug\DeclaringConstant_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\obj\Debug\DeclaringConstant_Guce.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\obj\Debug\DeclaringConstant_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\DeclaringConstant_Guce\obj\Debug\DeclaringConstant_Guce.pdb

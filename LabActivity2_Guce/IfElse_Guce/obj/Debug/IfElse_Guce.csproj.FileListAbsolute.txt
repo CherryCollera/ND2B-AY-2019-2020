@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\IfElse_Guce\bin\Debug\IfElse_Guce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\IfElse_Guce\bin\Debug\IfElse_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\IfElse_Guce\bin\Debug\IfElse_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\IfElse_Guce\obj\Debug\IfElse_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\IfElse_Guce\obj\Debug\IfElse_Guce.pdb

@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\bin\Debug\LabActivity2_Guce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\bin\Debug\LabActivity2_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\bin\Debug\LabActivity2_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\obj\Debug\LabActivity2_Guce.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\obj\Debug\LabActivity2_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Guce\LabActivity2_Guce\obj\Debug\LabActivity2_Guce.pdb
