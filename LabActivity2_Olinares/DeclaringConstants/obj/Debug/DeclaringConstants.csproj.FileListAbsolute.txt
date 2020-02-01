@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

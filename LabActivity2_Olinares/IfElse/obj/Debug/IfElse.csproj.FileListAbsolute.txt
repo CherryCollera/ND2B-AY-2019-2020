@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\IfElse\bin\Debug\IfElse.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\IfElse\bin\Debug\IfElse.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\IfElse\bin\Debug\IfElse.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\IfElse\obj\Debug\IfElse.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\IfElse\obj\Debug\IfElse.pdb

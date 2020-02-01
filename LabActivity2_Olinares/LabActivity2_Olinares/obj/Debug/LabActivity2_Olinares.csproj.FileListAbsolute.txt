@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\bin\Debug\LabActivity2_Olinares.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\bin\Debug\LabActivity2_Olinares.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\bin\Debug\LabActivity2_Olinares.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\obj\Debug\LabActivity2_Olinares.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\obj\Debug\LabActivity2_Olinares.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_Olinares\LabActivity2_Olinares\obj\Debug\LabActivity2_Olinares.pdb
