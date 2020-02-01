@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\IfElse_quisim\bin\Debug\IfElse_quisim.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\IfElse_quisim\bin\Debug\IfElse_quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\IfElse_quisim\bin\Debug\IfElse_quisim.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\IfElse_quisim\obj\Debug\IfElse_quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\IfElse_quisim\obj\Debug\IfElse_quisim.pdb

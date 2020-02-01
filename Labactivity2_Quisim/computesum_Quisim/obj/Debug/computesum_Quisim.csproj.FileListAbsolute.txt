@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\bin\Debug\Labactivity2_Quisim.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\bin\Debug\Labactivity2_Quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\bin\Debug\Labactivity2_Quisim.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\obj\Debug\computesum_Quisim.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\obj\Debug\Labactivity2_Quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\Labactivity2_Quisim\obj\Debug\Labactivity2_Quisim.pdb

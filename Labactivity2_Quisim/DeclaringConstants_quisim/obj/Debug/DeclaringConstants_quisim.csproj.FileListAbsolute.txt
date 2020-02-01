@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\DeclaringConstants_quisim\bin\Debug\DeclaringConstants_quisim.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\DeclaringConstants_quisim\bin\Debug\DeclaringConstants_quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\DeclaringConstants_quisim\bin\Debug\DeclaringConstants_quisim.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\DeclaringConstants_quisim\obj\Debug\DeclaringConstants_quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\DeclaringConstants_quisim\obj\Debug\DeclaringConstants_quisim.pdb

@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\ComputeAve_Quisim\bin\Debug\ComputeAve_Quisim.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\ComputeAve_Quisim\bin\Debug\ComputeAve_Quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\ComputeAve_Quisim\bin\Debug\ComputeAve_Quisim.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\ComputeAve_Quisim\obj\Debug\ComputeAve_Quisim.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\Labactivity2_Quisim\ComputeAve_Quisim\obj\Debug\ComputeAve_Quisim.pdb
