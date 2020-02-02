@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeJesus\LabActivity2_DeJesus\bin\Debug\LabActivity2_DeJesus.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeJesus\LabActivity2_DeJesus\bin\Debug\LabActivity2_DeJesus.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeJesus\LabActivity2_DeJesus\bin\Debug\LabActivity2_DeJesus.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeJesus\LabActivity2_DeJesus\obj\Debug\LabActivity2_DeJesus.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeJesus\LabActivity2_DeJesus\obj\Debug\LabActivity2_DeJesus.pdb
