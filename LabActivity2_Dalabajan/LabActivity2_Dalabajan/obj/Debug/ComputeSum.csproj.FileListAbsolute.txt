@@ -1,0 +1,7 @@
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\bin\Debug\LabActivity2_Dalabajan.exe.config
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\bin\Debug\LabActivity2_Dalabajan.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\bin\Debug\LabActivity2_Dalabajan.pdb
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\obj\Debug\ComputeSum.csprojAssemblyReference.cache
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\obj\Debug\ComputeSum.csproj.CoreCompileInputs.cache
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\obj\Debug\LabActivity2_Dalabajan.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\LabActivity2_Dalabajan\obj\Debug\LabActivity2_Dalabajan.pdb

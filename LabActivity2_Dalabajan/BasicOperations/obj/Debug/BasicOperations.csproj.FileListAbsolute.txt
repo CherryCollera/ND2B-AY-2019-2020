@@ -1,0 +1,6 @@
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\obj\Debug\BasicOperations.csproj.CoreCompileInputs.cache
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\bin\Debug\BasicOperations.exe.config
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\bin\Debug\BasicOperations.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\bin\Debug\BasicOperations.pdb
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\obj\Debug\BasicOperations.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\BasicOperations\obj\Debug\BasicOperations.pdb

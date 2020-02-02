@@ -1,0 +1,6 @@
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\bin\Debug\IfElse.exe.config
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\bin\Debug\IfElse.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\bin\Debug\IfElse.pdb
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\obj\Debug\IfElse.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\IfElse\obj\Debug\IfElse.pdb

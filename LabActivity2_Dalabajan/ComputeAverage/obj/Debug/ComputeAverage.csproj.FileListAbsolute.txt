@@ -1,0 +1,6 @@
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\bin\Debug\ComputeAverage.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\bin\Debug\ComputeAverage.pdb
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\obj\Debug\ComputeAverage.csproj.CoreCompileInputs.cache
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\obj\Debug\ComputeAverage.exe
+c:\users\jhunrhos\source\repos\LabActivity2_Dalabajan\ComputeAverage\obj\Debug\ComputeAverage.pdb
