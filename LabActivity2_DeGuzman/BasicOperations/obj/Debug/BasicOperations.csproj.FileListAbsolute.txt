@@ -1,0 +1,11 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeGuzman\BasicOperations\obj\Debug\BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity2_DeGuzman\BasicOperations\obj\Debug\BasicOperations.pdb
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\obj\Debug\BasicOperations.exe
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\obj\Debug\BasicOperations.pdb
+C:\Users\poble\Desktop\OOP\LabActivity2_DeGuzman\BasicOperations\obj\Debug\BasicOperations.csprojResolveAssemblyReference.cache
