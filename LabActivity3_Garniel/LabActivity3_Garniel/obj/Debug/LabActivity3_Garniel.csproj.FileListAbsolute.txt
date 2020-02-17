@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\bin\Debug\LabActivity3_Garniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\bin\Debug\LabActivity3_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\bin\Debug\LabActivity3_Garniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\obj\Debug\LabActivity3_Garniel.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\obj\Debug\LabActivity3_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\LabActivity3_Garniel\obj\Debug\LabActivity3_Garniel.pdb
