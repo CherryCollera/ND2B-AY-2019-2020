@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.pdb
+D:\OOP\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+D:\OOP\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.exe
+D:\OOP\LabActivity3_Garniel\CompareNumbers\bin\Debug\CompareNumbers.pdb
+D:\OOP\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.csprojResolveAssemblyReference.cache
+D:\OOP\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.exe
+D:\OOP\LabActivity3_Garniel\CompareNumbers\obj\Debug\CompareNumbers.pdb
