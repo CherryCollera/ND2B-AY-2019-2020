@@ -1,0 +1,6 @@
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\bin\Debug\BasicOperation_DeGuzman.exe.config
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\bin\Debug\BasicOperation_DeGuzman.exe
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\bin\Debug\BasicOperation_DeGuzman.pdb
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\obj\Debug\BasicOperation_DeGuzman.csprojResolveAssemblyReference.cache
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\obj\Debug\BasicOperation_DeGuzman.exe
+c:\users\poble\documents\visual studio 2017\Projects\LabActivity4_DeGuzman\BasicOperation_DeGuzman\obj\Debug\BasicOperation_DeGuzman.pdb
