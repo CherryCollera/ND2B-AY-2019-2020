@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\bin\Debug\LabActivity4_quisim.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\bin\Debug\LabActivity4_quisim.exe
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\bin\Debug\LabActivity4_quisim.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.Form2.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.Form3.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.exe
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity4_quisim\LabActivity4_quisim\obj\Debug\LabActivity4_quisim.Form4.resources
