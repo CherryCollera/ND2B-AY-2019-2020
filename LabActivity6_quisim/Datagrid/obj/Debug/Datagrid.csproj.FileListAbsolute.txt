@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\bin\Debug\students.mdb
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\bin\Debug\Datagrid.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\bin\Debug\Datagrid.exe
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\bin\Debug\Datagrid.pdb
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.exe
+c:\users\acer\documents\visual studio 2017\Projects\LabActivity6_quisim\Datagrid\obj\Debug\Datagrid.pdb
