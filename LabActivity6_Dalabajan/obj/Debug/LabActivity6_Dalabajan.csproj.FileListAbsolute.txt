@@ -1,0 +1,10 @@
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\bin\Debug\students.mdb
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\bin\Debug\LabActivity6_Dalabajan.exe.config
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\bin\Debug\LabActivity6_Dalabajan.exe
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\bin\Debug\LabActivity6_Dalabajan.pdb
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.csprojAssemblyReference.cache
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.Form1.resources
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.Properties.Resources.resources
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.csproj.GenerateResource.cache
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.exe
+C:\Users\Jujay.Jujay-PC\source\repos\LabActivity6_Dalabajan\obj\Debug\LabActivity6_Dalabajan.pdb
