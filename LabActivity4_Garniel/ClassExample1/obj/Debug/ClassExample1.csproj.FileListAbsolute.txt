@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Garniel\ClassExample1\bin\Debug\ClassExample1.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Garniel\ClassExample1\bin\Debug\ClassExample1.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Garniel\ClassExample1\bin\Debug\ClassExample1.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Garniel\ClassExample1\obj\Debug\ClassExample1.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Garniel\ClassExample1\obj\Debug\ClassExample1.pdb
