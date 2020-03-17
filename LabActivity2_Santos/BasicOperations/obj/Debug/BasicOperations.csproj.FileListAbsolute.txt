@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\BasicOperations\bin\Debug\BasicOperations.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\BasicOperations\bin\Debug\BasicOperations.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\BasicOperations\obj\Debug\BasicOperations.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\BasicOperations\obj\Debug\BasicOperations.pdb

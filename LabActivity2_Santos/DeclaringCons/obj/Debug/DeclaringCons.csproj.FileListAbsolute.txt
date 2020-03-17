@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\DeclaringCons\bin\Debug\DeclaringCons.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\DeclaringCons\bin\Debug\DeclaringCons.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\DeclaringCons\obj\Debug\DeclaringCons.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity2_Santos\DeclaringCons\obj\Debug\DeclaringCons.pdb
