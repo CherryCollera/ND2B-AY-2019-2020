@@ -1,0 +1,10 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\bin\Debug\students.mdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\bin\Debug\LabActivity6_Garniel.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\bin\Debug\LabActivity6_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\bin\Debug\LabActivity6_Garniel.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\LabActivity6_Garniel.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\LabActivity6_Garniel.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\LabActivity6_Garniel.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Garniel\LabActivity6_Garniel\obj\Debug\LabActivity6_Garniel.pdb
