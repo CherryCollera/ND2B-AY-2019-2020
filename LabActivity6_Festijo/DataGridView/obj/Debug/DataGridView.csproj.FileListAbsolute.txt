@@ -1,0 +1,20 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\bin\Debug\students.mdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+D:\LabActivity6_Festijo\DataGridView\bin\Debug\students.mdb
+D:\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.exe.config
+D:\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.exe
+D:\LabActivity6_Festijo\DataGridView\bin\Debug\DataGridView.pdb
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.Form1.resources
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.exe
+D:\LabActivity6_Festijo\DataGridView\obj\Debug\DataGridView.pdb
