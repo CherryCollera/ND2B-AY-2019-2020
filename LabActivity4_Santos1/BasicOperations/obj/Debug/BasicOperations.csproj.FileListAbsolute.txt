@@ -1,0 +1,6 @@
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\obj\Debug\BasicOperations.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\obj\Debug\BasicOperations.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Santos\BasicOperations\obj\Debug\BasicOperations.pdb
