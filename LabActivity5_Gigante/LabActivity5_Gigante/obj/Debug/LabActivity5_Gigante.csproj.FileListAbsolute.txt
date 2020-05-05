@@ -1,0 +1,11 @@
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\bin\Debug\LabActivity5_Gigante.exe.config
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\bin\Debug\LabActivity5_Gigante.exe
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\bin\Debug\LabActivity5_Gigante.pdb
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.Calculator.resources
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.Form1.resources
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.Form3.resources
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.Properties.Resources.resources
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.csproj.GenerateResource.Cache
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.exe
+C:\Users\ICT-5\Documents\Visual Studio 2017\Projects\LabActivity5_Gigante\LabActivity5_Gigante\obj\Debug\LabActivity5_Gigante.pdb
