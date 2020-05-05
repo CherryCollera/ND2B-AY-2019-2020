@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\bin\Debug\LabActivity4_Guce.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\bin\Debug\LabActivity4_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\bin\Debug\LabActivity4_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.Form2.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.Form3.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Guce\LabActivity4_Guce\obj\Debug\LabActivity4_Guce.Form4.resources
