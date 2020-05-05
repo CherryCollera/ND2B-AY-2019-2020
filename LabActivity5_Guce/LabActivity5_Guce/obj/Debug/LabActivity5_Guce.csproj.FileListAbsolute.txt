@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\bin\Debug\LabActivity5_Guce.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\bin\Debug\LabActivity5_Guce.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\bin\Debug\LabActivity5_Guce.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.Form3.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity5_Guce\LabActivity5_Guce\obj\Debug\LabActivity5_Guce.Calculator.resources
