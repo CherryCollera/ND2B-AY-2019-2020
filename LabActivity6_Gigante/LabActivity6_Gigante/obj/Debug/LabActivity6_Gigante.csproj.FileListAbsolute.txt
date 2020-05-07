@@ -1,0 +1,20 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\students.mdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.pdb
+E:\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\students.mdb
+E:\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.exe.config
+E:\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.exe
+E:\LabActivity6_Gigante\LabActivity6_Gigante\bin\Debug\LabActivity6_Gigante.pdb
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.csprojResolveAssemblyReference.cache
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.Form1.resources
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.Properties.Resources.resources
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.csproj.GenerateResource.Cache
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.exe
+E:\LabActivity6_Gigante\LabActivity6_Gigante\obj\Debug\LabActivity6_Gigante.pdb
